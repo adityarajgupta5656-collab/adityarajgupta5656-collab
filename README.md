@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Aditya Raj Gupta
 **A passionate Studying Computer Science with AI || AIML ||**
-<img align="right" width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/a1d6e75a-dc88-4f35-a981-b883849be0d9" />
+<img align="right" width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a1d6e75a-dc88-4f35-a981-b883849be0d9" />
 >
 Email Me 👉 ✉️ **adityarajgupta5656@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
