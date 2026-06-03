@@ -1,6 +1,7 @@
 # 💫 Hi 👋, I'm Aditya Raj Gupta
 **A passionate Studying Computer Science with AI || AIML ||**
-
+<img align="right" width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/a1d6e75a-dc88-4f35-a981-b883849be0d9" />
+>
 Email Me 👉 ✉️ **adityarajgupta5656@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Weather information 
