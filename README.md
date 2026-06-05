@@ -13,7 +13,9 @@ Email Me 👉 ✉️ **adityarajgupta5656@gmail.com** For Collaboration/Project 
 - 😄 **Pronouns:** Aadi
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajguptaaditya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aditya Raj Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityarajgupta5656@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajguptaaditya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]
+(https://x.com/AdityaR73701071) [
+![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityarajgupta5656@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
